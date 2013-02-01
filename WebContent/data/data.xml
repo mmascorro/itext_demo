@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form1>
+   <form>
+      <main>
+         <TextField1>first</TextField1>
+         <TextField2>second</TextField2>
+      </main>
+      <options>
+         <dname1>m1</dname1>
+         <dname2>1</dname2>
+         <dch1>1</dch1>
+      </options>
+      <options>
+         <dname1>m2</dname1>
+         <dname2>2</dname2>
+         <dch1>0</dch1>
+      </options>
+      <options>
+         <dname1>m3</dname1>
+         <dname2>3</dname2>
+         <dch1>1</dch1>
+      </options>
+   </form>
+</form1>
